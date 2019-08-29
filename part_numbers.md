@@ -1,35 +1,35 @@
 
 # Table of Contents
 
-1.  [Mechanical](#orgaef3626)
-    1.  [Engine - All](#org43a34a9)
-    2.  [Engine - 2.4 L4](#orgfc9dd76)
-    3.  [Engine - 2.7 L4](#org85f709d)
-    4.  [Engine - 3.4 V6](#org2f01509)
-    5.  [Transmission - Automatic](#orgdc9fdfb)
-    6.  [Transmission - Manual](#org183f6f7)
-    7.  [Transfer Case](#orgbfcc55c)
-    8.  [Front Axle](#org7958f16)
-    9.  [Rear Axle](#orge8d71de)
-    10. [Drive Shaft](#org2bf054c)
-    11. [Steering and Suspension](#orgaa6d4c4)
-        1.  [Steering](#orgabb188a)
-        2.  [Front suspension](#org971929e)
-        3.  [Brakes](#orgc5e090c)
-        4.  [Brakes (Tundra Upgrade)](#orgd350c9b)
-2.  [Exterior](#orgb55fe81)
-    1.  [Body Panels](#orga30488f)
-        1.  [01-02 Parts Catalog](#orgc09aa46)
-        2.  [95-2000 Parts Catalog](#orgdf67595)
-    2.  [Trim/Accessories](#orgd82fb21)
-    3.  [Lights](#org79b19fb)
-    4.  [Armor](#orga84fc5f)
-3.  [Interior](#orgec2b773)
-    1.  [Trim](#org38fcd32)
-    2.  [Seats](#org22d4ff9)
-    3.  [Electrical](#org1ae5e51)
-4.  [Parts Vendors](#org7350c32)
-5.  [Parts Search](#org15cb201)
+1.  [Mechanical](#org7376d7d)
+    1.  [Engine - All](#org512ddfa)
+    2.  [Engine - 2.4 L4](#orge712bb2)
+    3.  [Engine - 2.7 L4](#org7f4c5c9)
+    4.  [Engine - 3.4 V6](#org07053a5)
+    5.  [Transmission - Automatic](#orgaff10cf)
+    6.  [Transmission - Manual](#org05ae9ee)
+    7.  [Transfer Case](#orgc13fa7c)
+    8.  [Front Axle](#org421d9e3)
+    9.  [Rear Axle](#orgd95080f)
+    10. [Drive Shaft](#org1ea132a)
+    11. [Steering and Suspension](#orgb073a9a)
+        1.  [Steering](#org9b12970)
+        2.  [Front suspension](#orgc84d0d0)
+        3.  [Brakes](#org99071bc)
+        4.  [Brakes (Tundra Upgrade)](#orgc6ea351)
+2.  [Exterior](#org8b50644)
+    1.  [Body Panels](#org5f4bd46)
+        1.  [95-2000 Parts Catalog](#org937ab3f)
+        2.  [01-02 Parts Catalog](#orgf623e35)
+    2.  [Trim/Accessories](#orga833eeb)
+    3.  [Lights](#org80ec06c)
+    4.  [Armor](#orgf21029b)
+3.  [Interior](#org052b926)
+    1.  [Trim](#orgaf4075b)
+    2.  [Seats](#orgd02b54e)
+    3.  [Electrical](#org418607f)
+4.  [Parts Vendors](#orgc7f2a24)
+5.  [Parts Search](#org14c737a)
 
 NOTE:  This is a draft.  It hasn't been checked.  Its probably Wrong.
 
@@ -43,12 +43,12 @@ Or, if you're git savvy, submit a pull request on github:
 <https://github.com/andyv133/first_gen_tacoma_parts>
 
 
-<a id="orgaef3626"></a>
+<a id="org7376d7d"></a>
 
 # Mechanical
 
 
-<a id="org43a34a9"></a>
+<a id="org512ddfa"></a>
 
 ## Engine - All
 
@@ -151,12 +151,12 @@ Or, if you're git savvy, submit a pull request on github:
 </table>
 
 
-<a id="orgfc9dd76"></a>
+<a id="orge712bb2"></a>
 
 ## Engine - 2.4 L4
 
 
-<a id="org85f709d"></a>
+<a id="org7f4c5c9"></a>
 
 ## Engine - 2.7 L4
 
@@ -710,7 +710,7 @@ Or, if you're git savvy, submit a pull request on github:
 </table>
 
 
-<a id="org2f01509"></a>
+<a id="org07053a5"></a>
 
 ## Engine - 3.4 V6
 
@@ -1033,7 +1033,7 @@ Or, if you're git savvy, submit a pull request on github:
 </table>
 
 
-<a id="orgdc9fdfb"></a>
+<a id="orgaff10cf"></a>
 
 ## Transmission - Automatic
 
@@ -1081,7 +1081,7 @@ Or, if you're git savvy, submit a pull request on github:
 </table>
 
 
-<a id="org183f6f7"></a>
+<a id="org05ae9ee"></a>
 
 ## Transmission - Manual
 
@@ -1125,7 +1125,7 @@ Or, if you're git savvy, submit a pull request on github:
 </table>
 
 
-<a id="orgbfcc55c"></a>
+<a id="orgc13fa7c"></a>
 
 ## Transfer Case
 
@@ -1169,7 +1169,7 @@ Or, if you're git savvy, submit a pull request on github:
 </table>
 
 
-<a id="org7958f16"></a>
+<a id="org421d9e3"></a>
 
 ## Front Axle
 
@@ -1226,7 +1226,7 @@ Front Differential Bracket Bushings:
 <https://toyotabumpstops.com/product/1st-gen-toyota-tacoma-front-diff-bracket-bushings/>
 
 
-<a id="orge8d71de"></a>
+<a id="orgd95080f"></a>
 
 ## Rear Axle
 
@@ -1350,7 +1350,7 @@ Front Differential Bracket Bushings:
 </table>
 
 
-<a id="org2bf054c"></a>
+<a id="org1ea132a"></a>
 
 ## Drive Shaft
 
@@ -1402,12 +1402,12 @@ Complete Drive Shafts, no longer available from Toyota:
 <https://www.wholesaleimportparts.com/Toyota_Tacoma_Driveshaft_1997.php>
 
 
-<a id="orgaa6d4c4"></a>
+<a id="orgb073a9a"></a>
 
 ## Steering and Suspension
 
 
-<a id="orgabb188a"></a>
+<a id="org9b12970"></a>
 
 ### Steering
 
@@ -1551,7 +1551,7 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="org971929e"></a>
+<a id="orgc84d0d0"></a>
 
 ### Front suspension
 
@@ -1699,7 +1699,7 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="orgc5e090c"></a>
+<a id="org99071bc"></a>
 
 ### Brakes
 
@@ -1757,7 +1757,7 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="orgd350c9b"></a>
+<a id="orgc6ea351"></a>
 
 ### Brakes (Tundra Upgrade)
 
@@ -1808,22 +1808,225 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="orgb55fe81"></a>
+<a id="org8b50644"></a>
 
 # Exterior
 
 
-<a id="orga30488f"></a>
+<a id="org5f4bd46"></a>
 
 ## Body Panels
 
-[95-2000 Parts List](images/95-2000_parts_list.pdf)
-[01 Parts List](images/01_parts_list.pdf)
+
+<a id="org937ab3f"></a>
+
+### 95-2000 Parts Catalog
+
+[95-2000 Parts List (PDF)](images/95-2000_parts_list.pdf)
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-<a id="orgc09aa46"></a>
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Page</th>
+<th scope="col" class="org-left">Contents</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">[Page 1](images/95-2000_parts_list/95-2000_parts_list-01.png)</td>
+<td class="org-left">Front bumper</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 2](images/95-2000_parts_list/95-2000_parts_list-02.png)</td>
+<td class="org-left">Grille, Front Lamps</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 3](images/95-2000_parts_list/95-2000_parts_list-03.png)</td>
+<td class="org-left">Front Lamps</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 4](images/95-2000_parts_list/95-2000_parts_list-04.png)</td>
+<td class="org-left">Front Lamps, Hood, Cooling</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 5](images/95-2000_parts_list/95-2000_parts_list-05.png)</td>
+<td class="org-left">AC, Stripe Tape, Front Fender</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 6](images/95-2000_parts_list/95-2000_parts_list-06.png)</td>
+<td class="org-left">Front Fender, Underhood Dimensions, Air Bag</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 7](images/95-2000_parts_list/95-2000_parts_list-07.png)</td>
+<td class="org-left">ABS/Brakes, Cruise Control</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 8](images/95-2000_parts_list/95-2000_parts_list-08.png)</td>
+<td class="org-left">Cruise Control, Frame</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 9](images/95-2000_parts_list/95-2000_parts_list-09.png)</td>
+<td class="org-left">Frame, Wheel, Front Suspension</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 10](images/95-2000_parts_list/95-2000_parts_list-10.png)</td>
+<td class="org-left">Front Suspension</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 11](images/95-2000_parts_list/95-2000_parts_list-11.png)</td>
+<td class="org-left">Front Suspension, Front Drive AXle, Front Steering, Steering Pump</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 12](images/95-2000_parts_list/95-2000_parts_list-12.png)</td>
+<td class="org-left">Steering Wheel/Column</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 13](images/95-2000_parts_list/95-2000_parts_list-13.png)</td>
+<td class="org-left">Steering Wheel/Column</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 14](images/95-2000_parts_list/95-2000_parts_list-14.png)</td>
+<td class="org-left">Steering Wheel/Column, Engine/Trans</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 15](images/95-2000_parts_list/95-2000_parts_list-15.png)</td>
+<td class="org-left">Engine/Trans, Air Cleaner</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 16](images/95-2000_parts_list/95-2000_parts_list-16.png)</td>
+<td class="org-left">Air Cleaner, Exhaust</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 17](images/95-2000_parts_list/95-2000_parts_list-17.png)</td>
+<td class="org-left">Exhaust, Electrical, Windshield, Cowl and Dash</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 18](images/95-2000_parts_list/95-2000_parts_list-18.png)</td>
+<td class="org-left">Cowl and Dash, Instrument Panel</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 19](images/95-2000_parts_list/95-2000_parts_list-19.png)</td>
+<td class="org-left">Instrument Panel, Center Console, Rocker/Pillars/Floor</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 20](images/95-2000_parts_list/95-2000_parts_list-20.png)</td>
+<td class="org-left">Rocker/Pillars/Floor, Cab</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 21](images/95-2000_parts_list/95-2000_parts_list-21.png)</td>
+<td class="org-left">Cab, Front Door</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 22](images/95-2000_parts_list/95-2000_parts_list-22.png)</td>
+<td class="org-left">Front Door, Front Seat</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 23](images/95-2000_parts_list/95-2000_parts_list-23.png)</td>
+<td class="org-left">Front Seat</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 24](images/95-2000_parts_list/95-2000_parts_list-24.png)</td>
+<td class="org-left">Front Seat, Rear Seat</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 25](images/95-2000_parts_list/95-2000_parts_list-25.png)</td>
+<td class="org-left">Seat Belts, Roof</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 26](images/95-2000_parts_list/95-2000_parts_list-26.png)</td>
+<td class="org-left">Roof, Sunroof, Quarter Glass, Back Window</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 27](images/95-2000_parts_list/95-2000_parts_list-27.png)</td>
+<td class="org-left">Back Window, Pickup bed</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 28](images/95-2000_parts_list/95-2000_parts_list-28.png)</td>
+<td class="org-left">Pickup Bed, Tailgate, Rear Suspension</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 29](images/95-2000_parts_list/95-2000_parts_list-29.png)</td>
+<td class="org-left">Rear Suspension, Fuel Tank</td>
+</tr>
+
+
+<tr>
+<td class="org-left">[Page 30](images/95-2000_parts_list/95-2000_parts_list-30.png)</td>
+<td class="org-left">Fuel Tank, Rear Lamps, Rear Bumper</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="orgf623e35"></a>
 
 ### 01-02 Parts Catalog
+
+[01 Parts List PDF](images/01_parts_list.pdf)
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -2006,11 +2209,6 @@ Complete Drive Shafts, no longer available from Toyota:
 
 [01 Parts List](images/01_parts_list.pdf)
 
-
-<a id="orgdf67595"></a>
-
-### 95-2000 Parts Catalog
-
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -2071,7 +2269,7 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="orgd82fb21"></a>
+<a id="orga833eeb"></a>
 
 ## Trim/Accessories
 
@@ -2687,7 +2885,7 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="org79b19fb"></a>
+<a id="org80ec06c"></a>
 
 ## Lights
 
@@ -2727,7 +2925,7 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="orga84fc5f"></a>
+<a id="orgf21029b"></a>
 
 ## Armor
 
@@ -2781,12 +2979,12 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="orgec2b773"></a>
+<a id="org052b926"></a>
 
 # Interior
 
 
-<a id="org38fcd32"></a>
+<a id="orgaf4075b"></a>
 
 ## Trim
 
@@ -3040,7 +3238,7 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="org22d4ff9"></a>
+<a id="orgd02b54e"></a>
 
 ## Seats
 
@@ -3084,7 +3282,7 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="org1ae5e51"></a>
+<a id="org418607f"></a>
 
 ## Electrical
 
@@ -3128,7 +3326,7 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="org7350c32"></a>
+<a id="orgc7f2a24"></a>
 
 # Parts Vendors
 
@@ -3141,7 +3339,7 @@ Complete Drive Shafts, no longer available from Toyota:
 <https://parts.lakelandtoyota.com/s/TOYOTA__TACOMA/parts.html>
 
 
-<a id="org15cb201"></a>
+<a id="org14c737a"></a>
 
 # Parts Search
 
