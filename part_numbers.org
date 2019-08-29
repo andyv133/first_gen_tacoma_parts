@@ -1,0 +1,347 @@
+#+TITLE: 1st Generation Tacoma Parts List v0.1
+
+NOTE:  This is a draft.  It hasn't been checked.  Its probably Wrong.
+
+Absolutely double check any part numbers you get here to make sure they fit your vehicle.
+
+If/when you find an error or you'd like to add something submit a post to:
+https://www.tacomaworld.com/threads/1st-gen-toyota-part-numbers-prices.562381/
+
+Or, if you're git savvy, submit a pull request on github:
+
+
+
+* Mechanical
+** Engine - All
+| Part Name                 | Manufacturer |          PN | Qty | Price      |        | Note                                          |
+|---------------------------+--------------+-------------+-----+------------+--------+-----------------------------------------------|
+| EVAP Vac Tubing Gates     | Gates        |       27050 |   5 | $0.99 / ft |        |                                               |
+| Negative Terminal (gray)  | Toyota       | 90982-06022 |   1 | $14.17     | $11.80 | Not Stock modification to cable required.     |
+| Positive Terminal (black) | Toyota       | 90982-05035 |   1 | $21.35     | $15.40 |                                               |
+| Pos Terminal Cover        | Toyota       | 82821-35020 |   1 | $15.23     | $10.99 |                                               |
+| Terminal Flange Nut       | Toyota       | 94151-80801 |   1 | $1.18      |        |                                               |
+| Idler Pully Bearing       | Multiple     |   6301-2NSE |   1 |            |        | Needs verification - is this for all engines? |
+** Engine - 2.4 L4
+** Engine - 2.7 L4
+| Part Name                                | Manufacturer |                PN | Qty | Price   | Note                                                 |
+|------------------------------------------+--------------+-------------------+-----+---------+------------------------------------------------------|
+| AC Compressor (NEW)                      | Denso        |          471-1242 |   1 | $175.55 |                                                      |
+| Alternator Brushes (70A Alternator)      | Toyota       |       27370-35060 |     | $22.70  | For 70A Alternator                                   |
+| Alternator brush holder (80A Alternator) | Toyota       |       27370-75060 |     | $17.51  | For 80A alternator not for 70A                       |
+| Belt AC                                  | Gates        |  K040360 (4PK918) |     | $12.63  |                                                      |
+| Belt Alt                                 | Gates        |  K050340 (5PK867) |     | $11.24  |                                                      |
+| Belt PS                                  | Gates        | K040440 (4PK1121) |     | $11.60  |                                                      |
+| Cam chain                                | Toyota       |       13506-75020 |     | $66.00  |                                                      |
+| Chain sub-assy balance #2                | Toyota       |       13507-75010 |     | $51.40  |                                                      |
+| Clutch kit                               | AISIN        |            CKT051 |     | $154.77 |                                                      |
+| Clutch slave                             | AISIN        |            CRT029 |     | $20.97  |                                                      |
+| Damper chain #4                          | Toyota       |       13554-75010 |     | $6.25   |                                                      |
+| Damper Chain vibration #1                | Toyota       |       13561-75020 |     | $30.47  |                                                      |
+| Damper chain vibration #2                | Toyota       |       13562-75010 |     | $18.75  |                                                      |
+| Damper chain vibration #3                | Toyota       |       13563-75010 |     | $10.65  |                                                      |
+| Exhaust manifold with EGR                | Toyota       |       17141-75080 |     | $287.70 | $211~ish discount.                                   |
+| Fuel Filter                              | Wix          |             33500 |     | $16.38  |                                                      |
+| Gasket Kit Engine Overhaul               | Toyota       |       04111-75102 |     | $181.37 |                                                      |
+| Gasket oil cap                           | Toyota       |       90430-37140 |     | $1.95   |                                                      |
+| Gasket oil pan drain                     | Toyota       |       90430-12031 |     | $0.91   |                                                      |
+| Gasket thermostat guide                  | Toyota       |       16119-75020 |     | $1.97   |                                                      |
+| Gear balanceshaft driven                 | Toyota       |       13063-75011 |     | $19.25  |                                                      |
+| Gear balanceshaft driven #1              | Toyota       |       13632-75010 |     | $4.86   |                                                      |
+| Gear balanceshaft driven #2              | Toyota       |       13633-75010 |     | $19.25  |                                                      |
+| Gear camshaft timing                     | Toyota       |       13523-75010 |     | $15.88  |                                                      |
+| Gear crankshaft timing                   | Toyota       |       13521-75010 |     | $29.03  |                                                      |
+| Head bolts (x10)                         | Toyota       |       90910-02187 |  10 | $36.20  |                                                      |
+| Hose air TB                              | Toyota       |       17882-75040 |     | $21.94  |                                                      |
+| Oil Filter                               | Toyota       |       90915-YZZG2 |     | $4.36   |                                                      |
+| Oil Filter                               | Toyota       |       90915-YZZD3 |     | $4.36   | Larger Land  Cruiser  filter  that  appears  to  fit |
+| O-ring bracket sub-assy oil filter       | Toyota       |       96721-24018 |     | $4.75   |                                                      |
+| O-ring fuel pressure regulator           | Toyota       |       90301-07001 |     | $1.72   |                                                      |
+| PCV                                      | Toyota       |       12204-75010 |     | $5.53​   |                                                      |
+| Plate cylinder head rear                 | Toyota       |       11181-75021 |     | $8.62   |                                                      |
+| Plate (Decal) engine "16 valve"          | Toyota       |       11929-74130 |     | $2.85   |                                                      |
+| Sensor Camshaft Position                 | Denso        |          196-1103 |   1 | $36.40  |                                                      |
+| Sensor Crankshaft Position               | Denso        |          196-1108 |   1 | $53.79  |                                                      |
+| Sensor Ox                                | Denso        |          234-4153 |   2 | $45.21  | I'm   using  one  part  number  for  both            |
+| Sensor water temperature EFI             | Toyota       |       89422-35010 |     | $58.75  |                                                      |
+| Slipper chain tension                    | Toyota       |       13559-75020 |     | $22.46  |                                                      |
+| Spacer fuel injector                     | Toyota       |       90561-10018 |     | $8.72   |                                                      |
+| Spark plugs                              | Denso        |              5303 |   4 | $19.63  |                                                      |
+| Spark plug wire clamp x2                 | Toyota       |       90469-05006 |     | $1.53   |                                                      |
+| Spark plug wire clamp x3                 | Toyota       |       90469-05007 |     | $3.24   |                                                      |
+| Spark plug wire clamp x4                 | Toyota       |       90469-05008 |     | $1.56   |                                                      |
+| Spark plug wires                         | Denso        |          671-4143 |   1 | $27.02  |                                                      |
+| Sprocket crankshaft timing #2            | Toyota       |       13597-75010 |     | $15.58  |                                                      |
+| Starter Cold Spec (Reman)                | Denso        |          280-0178 |   1 | $123.54 |                                                      |
+| Tension assy chain #1                    | Toyota       |       13540-75020 |     | $17.85  |                                                      |
+| Tension assy chain #2                    | Toyota       |       13550-75010 |     | $16.25  |                                                      |
+| Thermostat                               | AISIN        |            THT013 |     | $9.40   |                                                      |
+| Timing Cover                             | AISIN        |            TCT069 |     | $183.88 |                                                      |
+| Water pump                               | AISIN        |            WPT044 |     | $43.36  |                                                      |
+** Engine - 3.4 V6
+| Part Name                                   | Manufacturer |              PN | Qty | Price       |          | Note                                           |
+|---------------------------------------------+--------------+-----------------+-----+-------------+----------+------------------------------------------------|
+| AC Belt                                     | Toyota       |  99364-20870-78 |   1 | $17.41      | $17.70   |                                                |
+| ALT Belt                                    | Toyota       |  90080-91090-83 |   1 | $9.65       | $16.95   |                                                |
+| Crank Seal                                  | Toyota       |     90311-40022 |   1 | $5.75       |          |                                                |
+| Cruise Control Housing Electrical Connector | Toyota       |     90980-11150 |     |             |          |                                                |
+| Engine Cooling Fan Pulley Bracket           | Aisin        |         FBT-004 |   1 | $112.79     | Rockauto |                                                |
+| Fan Clutch Towing (green)                   | Toyota       |      08921-0495 |   1 | $193.00     |          |                                                |
+| Lower Idler                                 | Toyota       |     13505-62070 |   1 | $95.46      |          |                                                |
+| Lower Radiator Hose                         | Toyota       |     16572-07040 |   1 | $22.54      | $12.84   |                                                |
+| Oil Cooler Coolant Hose                     | Toyota       |     15777-62020 |   1 | $10.98      |          |                                                |
+| Oil Cooler Coolant Hose                     | Toyota       |     15778-62030 |   1 | $26.89      |          |                                                |
+| Oil Filter                                  | Toyota       |     90915-YZZD1 |   1 | $7.46       |          |                                                |
+| Outlet Hose Clamp - Radiator Hose clamps    | Toyota       |     90467-37005 |     |             |          |                                                |
+| PCV Valve (1997-2003)                       | Toyota       |     12204-62010 |   1 | $10.48      |          |                                                |
+| PCV Valve (2004)                            | Toyota       |     12204-62030 |   1 | $6.54       |          |                                                |
+| PCV Valve Grommet                           | Toyota       |     90480-18001 |   1 | $7.44       |          |                                                |
+| PS Belt                                     | Toyota       |  90080-91126-83 |   1 | $8.33       | $14.63   |                                                |
+| Tensioner                                   | Toyota       |     13540-62021 |   1 | $31.09      |          |                                                |
+| Thermostat 76°C/170°F                       | Toyota       |     90916-03107 |   1 | $29.42      |          |                                                |
+| Thermostat 82°C/180°F Stock                 | Toyota       |     90916-03075 |   1 | $19.31      |          |                                                |
+| Thermostat Gasket                           | Toyota       |     16325-62010 |   1 | $4.76       |          |                                                |
+| Thermostat Gasket                           | Fel-Pro      |           35445 |   1 | $5.27       |          |                                                |
+| Timing Belt                                 | Toyota       |     13568-69095 |   1 | $37.52      | $38.49   |                                                |
+| TRD Thermostat 71°C/160°F                   | Toyota       | 00602-17621-001 |   1 | 16340-SP010 | $65.00   | Too cold w/o supercharger, no longer available |
+| Upper Idler                                 | Toyota       |     13503-62040 |   1 | $71.22      | $169.98  |                                                |
+| Upper Radiator Hose                         | Toyota       |     16571-62070 |   1 | $35.31      |          |                                                |
+| Water Pump                                  | Toyota       |  16100-69398-83 |   1 | $164.11     | $98.66   |                                                |
+** Transmission - Automatic
+| Part Name                          | Manufacturer | PN          | Qty | Price |      | Note |
+|------------------------------------+--------------+-------------+-----+-------+------+------|
+| Trans Oil Cooler Hose Spring Clamp | Toyota       | 90467-A0012 |     |  3.02 | 2.17 |      |
+** Transmission - Manual
+| Part Name                         | Manufacturer | Qty |          PN | Price | Note                |
+|-----------------------------------+--------------+-----+-------------+-------+---------------------|
+| Fill and Drain Steel Crush Gasket | Toyota       |   2 | 12157-10010 |       | ID = 18mm OD = 24mm |
+** Transfer Case
+| Part Name                           | Manufacturer | Qty | PN          | Price | Note                |
+|-------------------------------------+--------------+-----+-------------+-------+---------------------|
+| Fill and Drain Aluminum Flat Gasket | Toyota       |   1 | 90430-A0003 |       | ID = 18mm OD = 24mm |
+** Front Axle
+| Part Name                           | Manufacturer | Qty |          PN | Price | Note                |
+|-------------------------------------+--------------+-----+-------------+-------+---------------------|
+| Front Axle Fill Steel Crush Gasket  | Toyota       |   1 | 12157-10010 |       | ID = 18mm OD = 24mm |
+| Front Axle Drain Copper Flat Gasket | Toyota       |   1 | 90430-24003 |       | ID = 24mm OD = 32mm |
+
+Front Differential Bracket Bushings:
+https://toyotabumpstops.com/product/1st-gen-toyota-tacoma-front-diff-bracket-bushings/
+
+** Rear Axle
+| Part Name                                                | Manufacturer        |               Qty | PN              | Price       | Note                |
+|----------------------------------------------------------+---------------------+-------------------+-----------------+-------------+---------------------|
+| Rear Axle Bearing and Seals W/O ABS                      | LowRangeOffroad.com |                 1 | TAC-AX-RBKU     | $89.10      |                     |
+| Rear Axle Bearing and Seals W/ABS                        | LowRangeOffroad.com |                 1 | TAC-AX-RBKU-ABS | $120.31     |                     |
+| Rear Axle Fill and Drain Steel Crush Gasket              | Toyota              |                 2 | 12157-10010     |             | ID = 18mm OD = 24mm |
+| Rear Diff Breather Stock M10x1.00                        | Toyota              | 90930-03031 1058F |                 | 19.50 10.30 |                     |
+| Diff Breather 5/16" Plastic Barb M10x1.00                | Toyota              |       90930-03136 |                 |             |                     |
+| Diff Breather 1/4" Metal Barb (No Check Valve)  M10x1.00 | Toyota              |       90930-03097 |                 |             |                     |
+| Diff Breather Union 3/8" Barb M10x1.00                   | Toyota              |       90404-51319 |                 |             |                     |
+| Diff Breather Union 1/4" Barb M10x1.00                   | Toyota              |       90404-51026 |                 | Black       |                     |
+| Diff Breather Union 1/4" Barb M10x1.00                   | Toyota              |       90404-51052 |                 | Silver      |                     |
+
+** Drive Shaft
+| Part Name             | Manufacturer |          PN | Qty | Price   |
+|-----------------------+--------------+-------------+-----+---------|
+| Carrier Bearing       | Toyota       | 37230-35130 |   1 | $146.00 |
+| Drive Shaft Stake Nut | Toyota       | 90179-18009 |   1 | $2.59   |
+
+Complete Drive Shafts, no longer available from Toyota:
+https://www.wholesaleimportparts.com/Toyota_Tacoma_Driveshaft_1997.php
+** Steering and Suspension
+*** Steering
+| Part Name                        | Manufacturer      |          PN |   | Price  |        |
+|----------------------------------+-------------------+-------------+---+--------+--------|
+| Leaf spring main eye bolt        | Toyota            | 90105-14025 | 4 | $5.99  |        |
+| Leaf spring main eye bolt nut    | Toyota            | 90179-14039 | 4 | $2.99  |        |
+| Leaf Spring main eye bolt washer | Toyota            | 90201-14005 | 4 | $2.99  |        |
+| Steering Rack Bushings           | Energy Suspension |   8.10103.R | 1 | $24.22 |        |
+| Steering Rack Guide              | Toyota            | 45504-35031 | 1 | $73.90 | $53.52 |
+| Steering Rack Guide Cap          | Toyota            | 45524-37010 | 1 | $26.38 |        |
+| Steering Rack Guide Lock Nut     | Toyota            | 90179-48003 | 1 | $1.78  | $1.61  |
+| Steering Rack Guide Spring       | Toyota            | 90501-26074 | 1 | $3.02  | $2.72  |
+| Sway Bar Bushings 27mm           | Energy Suspension |    8.5118.R | 1 | $17.75 |        |
+| Tie Rod End Boots                | Energy Suspension |   9.13101.G | 1 | $3.64  |        |
+| TRD FJ SE 16" Centercap          | Toyota            | PTR18-35092 | 4 | $12.15 | $8.41  |
+*** Front suspension
+| Part Name                                | Manufacturer |                 PN | Qty | Price   |
+|------------------------------------------+--------------+--------------------+-----+---------|
+| Front lower shock bolt                   | Toyota       |        90080-10124 |   2 | $5.99   |
+| Front lower shock bolt nut               | Toyota       |        90170-14026 |   2 | $1.99   |
+| Front lower shock bolt washer            | Toyota       |        94622-41400 |   2 | $2.99   |
+| Front Outer Wheel Seal                   | National     |             710571 |   2 | $6.38   |
+| Front Outer Wheel Seal 4x4 and Prerunner | Toyota       |        90316-69001 |   2 | $42.42  |
+| Front wheel Bearing 4x4 and Prerunner    | Toyota       |        90369-54002 |   2 | $79.85  |
+| Left Lower Ball Joint w/bolts            | Toyota       |        43340-39585 |   1 | $118.45 |
+| Lower Control Arm Bolts                  | Toyota       |        90080-11283 |   2 |         |
+| Lower Control Arm Camber/Caster Adjust   | Toyota       | 48409B/48409-35050 |   2 |         |
+| Lower Control Arm Toe Adjuster Plate     | Toyota       |  48452/48452-35020 |   2 |         |
+| Right Lower Ball Joint w/bolts           | Toyota       |        43330-39815 |   1 | $118.45 |
+| Upper Control Arm Bolt                   | Toyota       |        90105-14105 |   2 |         |
+| Upper control arm washer                 | Toyota       |        90209-14010 |   2 |         |
+*** Brakes
+| Part Name                     | Manufacturer |          PN | Qty | Price |
+|-------------------------------+--------------+-------------+-----+-------|
+| Speed bleeders front calipers | Russell      |      639570 |   2 |       |
+| peed bleeders rear drum       | Russell      |      639560 |   2 |       |
+| 4WD Rear Brake Drums          | Toyota       | 42431-35210 |   2 |       |
+*** Brakes (Tundra Upgrade)
+[[https://adventuretaco.com/new-to-me-tires-and-a-tundra-brake-upgrade/][AdventureTaco HOWTO]]
+| Part Name           | Manufacturer |          PN | Qty | Price |
+|---------------------+--------------+-------------+-----+-------|
+| Front Brake Tube #4 | Toyota       | 47314-35330 |   2 | $6.83 |
+| Front Brake Tube #6 | Toyota       | 47316-35250 |   2 | $6.83 |
+* Exterior
+** Body Panels
+[[file:images/95-2000_parts_list.pdf][95-2000 Parts List]]
+[[file:images/01_parts_list.pdf][01 Parts List]]
+
+*** 01-02 Parts Catalog
+| Page    | Contents                                                |
+| [[file:images/01_parts_list/01_parts_list-01.png][Page 1]]  | Front Bumper, Grille, Front Lamps                       |
+| [[file:images/01_parts_list/01_parts_list-02.png][Page 2]]  | Hood, Cooling                                           |
+| [[file:images/01_parts_list/01_parts_list-03.png][Page 3]]  | Cooling, Engine Oil Cooler, AC                          |
+| [[file:images/01_parts_list/01_parts_list-04.png][Page 4]]  | Front Fender, Air Bag System                            |
+| [[file:images/01_parts_list/01_parts_list-05.png][Page 5]]  | Underhood dimensions, ABS/Brakes, Cruise Control, Frame |
+| [[file:images/01_parts_list/01_parts_list-06.png][Page 6]]  | Frame, Wheel                                            |
+| [[file:images/01_parts_list/01_parts_list-07.png][Page 7]]  | Wheel, Front Suspension                                 |
+| [[file:images/01_parts_list/01_parts_list-08.png][Page 8]]  | Front Suspension                                        |
+| [[file:images/01_parts_list/01_parts_list-09.png][Page 9]]  | Front Drive Axle, Front Steering Linkage, Steering Pump |
+| [[file:images/01_parts_list/01_parts_list-10.png][Page 10]] | Steering Wheel/Column, Engine/Trans                     |
+| [[file:images/01_parts_list/01_parts_list-11.png][Page 11]] | Engine/Trans, Engine/Trans Mounts/ Air Cleaner          |
+| [[file:images/01_parts_list/01_parts_list-12.png][Page 12]] | Air Cleaner, Exhaust, Emissions, Electrical             |
+| [[file:images/01_parts_list/01_parts_list-13.png][Page 13]] | Windshield, Instrument Panel                            |
+| [[file:images/01_parts_list/01_parts_list-14.png][Page 14]] | Instrument Panel, Center Console                        |
+| [[file:images/01_parts_list/01_parts_list-15.png][Page 15]] | Center Console, Cab                                     |
+| [[file:images/01_parts_list/01_parts_list-16.png][Page 16]] | Cab                                                     |
+| [[file:images/01_parts_list/01_parts_list-17.png][Page 17]] | Cab                                                     |
+| [[file:images/01_parts_list/01_parts_list-18.png][Page 18]] | Cab, Front Seat                                         |
+| [[file:images/01_parts_list/01_parts_list-19.png][Page 19]] | Front Seat, Seat Belts                                  |
+| [[file:images/01_parts_list/01_parts_list-20.png][Page 20]] | Front Door                                              |
+| [[file:images/01_parts_list/01_parts_list-21.png][Page 21]] | Rear Door                                               |
+| [[file:images/01_parts_list/01_parts_list-22.png][Page 22]] | Rear Door, Sunroof, Quarter Glass, Back Window          |
+| [[file:images/01_parts_list/01_parts_list-23.png][Page 23]] | Pickup Bed                                              |
+| [[file:images/01_parts_list/01_parts_list-24.png][Page 24]] | Pickup Bed, Tailgate, Rear Suspension                   |
+| [[file:images/01_parts_list/01_parts_list-25.png][Page 25]] | Rear Suspension, Fuel Tank                              |
+| [[file:images/01_parts_list/01_parts_list-26.png][Page 26]] | Fuel Tank, Rear Lamps, Rear Bumper                      |
+|         |                                                         |
+[[file:images/01_parts_list.pdf][01 Parts List]]
+
+*** 95-2000 Parts Catalog
+
+
+
+| Part Name       | Manufacturer | PN                         | Qty | Price         | Note                       |
+|-----------------+--------------+----------------------------+-----+---------------+----------------------------|
+| Hood Outer Seal | Toyota       | 53183-04010                |     | $63.93 $44.19 | 01-04 only, includes clips |
+| Hood Inner Seal | Toyota       | 53381-AD010                |     |               | includes  clips            |
+| Hood Seal Clips | Toyota       | 90080-46010 904670-8011-83 |     | $1.52 $1.06   |                            |
+** Trim/Accessories
+| Part Name                                  | Manufacturer |             PN | Qty | Price        |                             |                  |   |
+|--------------------------------------------+--------------+----------------+-----+--------------+-----------------------------+------------------+---|
+| Antenna Assy                               | Toyota       |    86300-04050 |     |              |                             |                  |   |
+| Antenna Assy (automatic)                   | Toyota       |    86300-04060 |     |              |                             |                  |   |
+| Antenna Nut                                | Toyota       |    86396-16020 |     | $9.95        |                             |                  |   |
+| Antenna Nut (automatic)                    | Toyota       |    86396-04030 |     |              |                             |                  |   |
+| Antenna Ornament                           | Toyota       |    86392-04020 |     | $12.24       |                             |                  |   |
+| Antenna Ornament(automatic)                | Toyota       |    86392-04030 |     |              |                             |                  |   |
+| Fender Apron Seal Clip                     | Toyota       |    90080-46327 |     | 90467-10107  | $5.33 50 pcs                |                  |   |
+| Fender Apron Seal Clip                     | Toyota       |    90467-10173 |     | $1.68        | CT                          |                  |   |
+| Fender Apron Seal Left                     | Toyota       |    53738-04020 |     | $50.63       | $35.01                      |                  |   |
+| Fender Apron Seal Right (front)            | Toyota       |    53738-04040 |     | $29.11       | $20.13                      |                  |   |
+| Fender Apron Seal Right (rear)             | Toyota       |    53738-04030 |     | $27.93       | $19.31                      |                  |   |
+| Fender Apron Seal Set                      | Toyota       |         $74.99 |     |              |                             |                  |   |
+| Fender Flare Clip Blue                     | Toyota       |    90904-67036 |   8 | $3.28        | $1.27                       | 1998-2004        |   |
+| Fender Flare Clip Red                      | Toyota       |    90904-67037 |  18 | $3.28        | $1.27                       | 1998-2004        |   |
+| Fender Liner Push Clip                     | Toyota       |    53879-60010 |     | $6.99        | 50pcs?                      |                  |   |
+| Fender Liner Screw Clip                    | Toyota       |    90189-06157 |     | $4.71 50 pcs |                             |                  |   |
+| Flare Protector L                          | Toyota       |    58742-04020 |   1 | $12.06       | $18.54                      |                  |   |
+| Flare Protector R                          | Toyota       |    58741-04020 |   1 | $8.82        | $18.54                      |                  |   |
+| Front Bumper Top Pad Clip                  | Toyota       |    52161-02020 |     | $3.38        | $2.67                       |                  |   |
+| Front clearance lamp retainer (left)       | Toyota       |    53138-04010 |     |              |                             |                  |   |
+| Front clearance lamp retainer (right)      | Toyota       |    53137-04010 |     |              |                             |                  |   |
+| Front Fender Front Flare Seal/Pad L&R      | Toyota       |    53851-35061 |   2 | $10.97       | $16.88                      | 1998-2004        |   |
+| Grille Clip                                | Toyota       |    90467-12040 |   7 | $7.49        |                             |                  |   |
+| Grille Clip Large Outer                    | Toyota       |    53145-12010 |   2 | $2.82        | $11.28                      |                  |   |
+| Hitch Ball Bumper Plug                     | Toyota       | PT228-35985-SM |   1 | $1.73        |                             |                  |   |
+| Hood Prop                                  | Toyota       |    53441-04030 |   1 | 53441-AD010  | 19.54                       |                  |   |
+| Hood Prop Grommet                          | Toyota       |    90480-15028 |   1 | $2.93        |                             |                  |   |
+| LF Outer Door Scraper                      | Toyota       |    68210-04020 |   1 | $46.97       | Window                      | weather-striping |   |
+| Lisle Antenna Nut Socket (tool)            | Toyota       |          29600 |     | #4           | $11.34                      |                  |   |
+| LR Outer Door Scraper                      | Toyota       |    68174-35020 |   1 | $46.97       | Window                      | weather-striping |   |
+| Prop Holder                                | Toyota       |    53452-90351 |   1 | 53210-90353  | $5.52                       |                  |   |
+| Rear Fender Flare Seal/Pad L               | Toyota       |    61783-35091 |   1 | $11.51       | $17.64                      |                  |   |
+| Rear Fender Flare Seal/Pad R               | Toyota       |    61783-35071 |   1 | $11.51       | $17.64                      |                  |   |
+| RF Outer Door Scraper                      | Toyota       |    68160-04020 |   1 | $46.97       | Window                      | weather-striping |   |
+| rope hook bolts                            | Toyota       |    90149-80034 |   8 | $0.93        |                             |                  |   |
+| rope hooks                                 | Toyota       |    66312-35010 |   4 | $10.64       |                             |                  |   |
+| RR Outer Door Scraper                      | Toyota       |    68173-35030 |   1 | $46.97       | Window                      | weather-striping |   |
+| Tail Light Gasket                          | Toyota       |    81552-04060 |   2 | $14.50       | $29.00                      |                  |   |
+| Tail Light Screw Clip (large)              | Toyota       |                |     |              |                             |                  |   |
+| Tail Light Screw Clip (small)              | Toyota       |    90189-04144 |     | $3.32        | $13.28                      |                  |   |
+| TRD Offroad Decal                          | Toyota       | PT211-TT980-28 |   2 | $37.30       |                             |                  |   |
+| Windshield Washer Resivoir                 | Toyota       |    85315-04060 |     | $95.98       |                             |                  |   |
+| Rear Diff Lock Label - Drivers Door        | Toyota       |    41991-04021 |   1 | $2.20        |                             |                  |   |
+| Corner Lamp Retainer Left/Blue             | Toyota       |    53138-04010 |     | 5.72 3.96    |                             |                  |   |
+| Corner Lamp Retainer Right/White           | Toyota       |    53137-04010 |     | 5.72  3.96   |                             |                  |   |
+| 3rd Brake Light Gasket                     | Toyota       |    81572-04010 |     | 6.96         | (sub  with 1/8"ø foam rope) |                  |   |
+| Tailgate Access Cover Screw w/ washer (12) | Toyota       |    90159-60535 |     | 0.69         |                             |                  |   |
+| Fuel Door Bumper (2)                       | Toyota       |    90541-06058 |     | 2.07         |                             |                  |   |
+** Lights
+| Part Name                     | Manufacturer |          PN | Qty | Price |
+|-------------------------------+--------------+-------------+-----+-------|
+| License Plate Light w/ Gasket | Toyota       | 00228-34938 |   1 |       |
+** Armor
+| Part Name              | Manufacturer | PN                      | Qty | Price       | Note |
+|------------------------+--------------+-------------------------+-----+-------------+------|
+| Skid Plate Bolt Black  | Toyota       | 90080-11373 90119-08A33 |     |             |      |
+| Skid Plate Bolt Silver | Toyota       | 90080-11547             |     | $2.07 $1.86 |      |
+* Interior
+** Trim
+| Part Name                                   | Manufacturer | PN                                  | Qty | Price       | Note                    |
+|---------------------------------------------+--------------+-------------------------------------+-----+-------------+-------------------------|
+| Accessory Switch Cover Charcoal             | Toyota       | 55539-06010-B2                      |     | $3.56       |                         |
+| Center Armrest Lid Charcoal                 | Toyota       | 58905-AD010-B0                      |     | 241-10891   |                         |
+| Coat Hook Charcoal                          | Toyota       | 74631-35010-B2                      |     | $2.87       |                         |
+| Cup Holder Insert L                         | Toyota       | 66995-AD021                         |   1 | $0.74       |                         |
+| Cup Holder Insert S                         | Toyota       | 66995-AD011                         |   4 | $0.74       |                         |
+| Front Door Panel Screw Cap Charcoal         | Toyota       | 67772-04030-B0                      |     | $3.05       |                         |
+| Inside Mirror w/ Dual Lamp Charcoal         | Toyota       | 87810-04050-B0                      |   1 | $152.22     |                         |
+| Lens & Bezel w/ Dual Lamp Charcoal          | Toyota       | 87818-35010-B0                      |   1 | $49.13      |                         |
+| LF Seat Scuff Plate Charcoal                | Toyota       | 67914-04040-B0                      |     | $59.22      |                         |
+| Shifter Bezel                               | Toyota       | 35971-35130                         |     | $36.29      |                         |
+| Shifter Bushings                            | Toyota       | 33544-27010                         |   4 | $1.79       |                         |
+| Shift Indicator                             | Toyota       | 35921-35172                         |     |             |                         |
+| Shift Lock Cover                            | Toyota       | 33554-35050                         |     |             |                         |
+| Tool Kit Band                               | Toyota       | 58780-89102                         |     | $13.71      |                         |
+| Window Switch Panel Charcoal                | Toyota       | 74202-35010-B0                      |     | $25.98      |                         |
+| Headliner Clip Charcoal (2)                 | Toyota       | 90467-06020-B2                      |     | 1.93  1.33  |                         |
+| Accessory Console Rivet Charcoal (2)        | Toyota       | 90467-07041-B7                      |     | 0.98        |                         |
+| Door Panel Clip                             | Toyota       | 90467-A0005                         |     | 3.69  1.39  | superceded (white clip) |
+| AC Knobs (2001-2004)                        | Toyota       | 55905-35310                         |     | 29.61 11.84 |                         |
+| AC Knobs (1998-2000)                        | Toyota       | 55905-35160                         |     | 19.10  8.70 |                         |
+| Cigarette Lighter Lamp w/ Orange Bulb Cover | Toyota       | 90010-01030                         |     | 10.25  4.19 |                         |
+| Cigarette Lighter Lamp w/ Green Bulb Cover  | Toyota       | 84999-10250 90010-01015 90010-01022 |     |             |                         |
+** Seats
+| Part Name                                        | Manufacturer |             PN | Qty | Price  | Note |
+|--------------------------------------------------+--------------+----------------+-----+--------+------|
+| Sport/Limited Upper/Lower Lumbar Adjustment Knob | Toyota       | 72457-06010-E3 |     | $16.00 |      |
+** Electrical
+| Part Name                       | Manufacturer |          PN | Qty | Price  | Note                                                                                     |
+|---------------------------------+--------------+-------------+-----+--------+------------------------------------------------------------------------------------------|
+| Rocker Switch Camry (1997-2002) | Toyota       | 00550-35976 |     | $14.00 | Camry fog light switch when you want something that goes in OEM knockouts that looks OEM |
+* Parts Vendors
+https://parts.conicellitoyotaofconshohocken.com/
+
+https://partsfactory.camelbacktoyota.com/
+
+https://parts.toyota.com/Toyota__.html
+
+https://parts.lakelandtoyota.com/s/TOYOTA__TACOMA/parts.html
+
+* Parts Search
+http://www.toyodiy.com/ - Lists parts by VIN
+
+https://toyota.7zap.com/en/us/ - Not just North America, but also Europe, Asia, the Middle East, and Japan. The only issue is selecting regions. You need to select the URL and hit enter to get it to load. You don't use your vin, but it really helps to know your model number.
+
+https://partsouq.com/en/catalog/toyota/model?catalog=US&model=TACOMA
