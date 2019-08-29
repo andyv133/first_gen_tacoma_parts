@@ -9,6 +9,7 @@ https://www.tacomaworld.com/threads/1st-gen-toyota-part-numbers-prices.562381/
 
 Or, if you're git savvy, submit a pull request on github:
 
+https://github.com/andyv133/first_gen_tacoma_parts
 
 
 * Mechanical

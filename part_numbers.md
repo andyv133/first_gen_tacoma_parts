@@ -1,35 +1,35 @@
 
 # Table of Contents
 
-1.  [Mechanical](#org52c5529)
-    1.  [Engine - All](#org3995c0f)
-    2.  [Engine - 2.4 L4](#orgd998f20)
-    3.  [Engine - 2.7 L4](#orga4a8da7)
-    4.  [Engine - 3.4 V6](#org4c8fb30)
-    5.  [Transmission - Automatic](#org1aa7aef)
-    6.  [Transmission - Manual](#org38df74e)
-    7.  [Transfer Case](#orgd7d7b45)
-    8.  [Front Axle](#org3304d3f)
-    9.  [Rear Axle](#org680bf28)
-    10. [Drive Shaft](#org377555f)
-    11. [Steering and Suspension](#orge3ce673)
-        1.  [Steering](#org6e54b1c)
-        2.  [Front suspension](#org99d77b4)
-        3.  [Brakes](#org9199cc0)
-        4.  [Brakes (Tundra Upgrade)](#orge5e5efd)
-2.  [Exterior](#orgf4dfbfd)
-    1.  [Body Panels](#orgfedd890)
-        1.  [01-02 Parts Catalog](#orgb436fd6)
-        2.  [95-2000 Parts Catalog](#orgf55ef2a)
-    2.  [Trim/Accessories](#orgefb55d3)
-    3.  [Lights](#org65d26c2)
-    4.  [Armor](#org53ee041)
-3.  [Interior](#org5fe2c79)
-    1.  [Trim](#orgeed8718)
-    2.  [Seats](#org4904751)
-    3.  [Electrical](#orge5ee0ac)
-4.  [Parts Vendors](#org91fcffd)
-5.  [Parts Search](#org54fc97b)
+1.  [Mechanical](#orgaef3626)
+    1.  [Engine - All](#org43a34a9)
+    2.  [Engine - 2.4 L4](#orgfc9dd76)
+    3.  [Engine - 2.7 L4](#org85f709d)
+    4.  [Engine - 3.4 V6](#org2f01509)
+    5.  [Transmission - Automatic](#orgdc9fdfb)
+    6.  [Transmission - Manual](#org183f6f7)
+    7.  [Transfer Case](#orgbfcc55c)
+    8.  [Front Axle](#org7958f16)
+    9.  [Rear Axle](#orge8d71de)
+    10. [Drive Shaft](#org2bf054c)
+    11. [Steering and Suspension](#orgaa6d4c4)
+        1.  [Steering](#orgabb188a)
+        2.  [Front suspension](#org971929e)
+        3.  [Brakes](#orgc5e090c)
+        4.  [Brakes (Tundra Upgrade)](#orgd350c9b)
+2.  [Exterior](#orgb55fe81)
+    1.  [Body Panels](#orga30488f)
+        1.  [01-02 Parts Catalog](#orgc09aa46)
+        2.  [95-2000 Parts Catalog](#orgdf67595)
+    2.  [Trim/Accessories](#orgd82fb21)
+    3.  [Lights](#org79b19fb)
+    4.  [Armor](#orga84fc5f)
+3.  [Interior](#orgec2b773)
+    1.  [Trim](#org38fcd32)
+    2.  [Seats](#org22d4ff9)
+    3.  [Electrical](#org1ae5e51)
+4.  [Parts Vendors](#org7350c32)
+5.  [Parts Search](#org15cb201)
 
 NOTE:  This is a draft.  It hasn't been checked.  Its probably Wrong.
 
@@ -40,13 +40,15 @@ If/when you find an error or you'd like to add something submit a post to:
 
 Or, if you're git savvy, submit a pull request on github:
 
+<https://github.com/andyv133/first_gen_tacoma_parts>
 
-<a id="org52c5529"></a>
+
+<a id="orgaef3626"></a>
 
 # Mechanical
 
 
-<a id="org3995c0f"></a>
+<a id="org43a34a9"></a>
 
 ## Engine - All
 
@@ -149,12 +151,12 @@ Or, if you're git savvy, submit a pull request on github:
 </table>
 
 
-<a id="orgd998f20"></a>
+<a id="orgfc9dd76"></a>
 
 ## Engine - 2.4 L4
 
 
-<a id="orga4a8da7"></a>
+<a id="org85f709d"></a>
 
 ## Engine - 2.7 L4
 
@@ -708,7 +710,7 @@ Or, if you're git savvy, submit a pull request on github:
 </table>
 
 
-<a id="org4c8fb30"></a>
+<a id="org2f01509"></a>
 
 ## Engine - 3.4 V6
 
@@ -1031,7 +1033,7 @@ Or, if you're git savvy, submit a pull request on github:
 </table>
 
 
-<a id="org1aa7aef"></a>
+<a id="orgdc9fdfb"></a>
 
 ## Transmission - Automatic
 
@@ -1079,7 +1081,7 @@ Or, if you're git savvy, submit a pull request on github:
 </table>
 
 
-<a id="org38df74e"></a>
+<a id="org183f6f7"></a>
 
 ## Transmission - Manual
 
@@ -1123,7 +1125,7 @@ Or, if you're git savvy, submit a pull request on github:
 </table>
 
 
-<a id="orgd7d7b45"></a>
+<a id="orgbfcc55c"></a>
 
 ## Transfer Case
 
@@ -1167,7 +1169,7 @@ Or, if you're git savvy, submit a pull request on github:
 </table>
 
 
-<a id="org3304d3f"></a>
+<a id="org7958f16"></a>
 
 ## Front Axle
 
@@ -1224,7 +1226,7 @@ Front Differential Bracket Bushings:
 <https://toyotabumpstops.com/product/1st-gen-toyota-tacoma-front-diff-bracket-bushings/>
 
 
-<a id="org680bf28"></a>
+<a id="orge8d71de"></a>
 
 ## Rear Axle
 
@@ -1348,7 +1350,7 @@ Front Differential Bracket Bushings:
 </table>
 
 
-<a id="org377555f"></a>
+<a id="org2bf054c"></a>
 
 ## Drive Shaft
 
@@ -1400,12 +1402,12 @@ Complete Drive Shafts, no longer available from Toyota:
 <https://www.wholesaleimportparts.com/Toyota_Tacoma_Driveshaft_1997.php>
 
 
-<a id="orge3ce673"></a>
+<a id="orgaa6d4c4"></a>
 
 ## Steering and Suspension
 
 
-<a id="org6e54b1c"></a>
+<a id="orgabb188a"></a>
 
 ### Steering
 
@@ -1549,7 +1551,7 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="org99d77b4"></a>
+<a id="org971929e"></a>
 
 ### Front suspension
 
@@ -1697,7 +1699,7 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="org9199cc0"></a>
+<a id="orgc5e090c"></a>
 
 ### Brakes
 
@@ -1755,7 +1757,7 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="orge5e5efd"></a>
+<a id="orgd350c9b"></a>
 
 ### Brakes (Tundra Upgrade)
 
@@ -1806,12 +1808,12 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="orgf4dfbfd"></a>
+<a id="orgb55fe81"></a>
 
 # Exterior
 
 
-<a id="orgfedd890"></a>
+<a id="orga30488f"></a>
 
 ## Body Panels
 
@@ -1819,7 +1821,7 @@ Complete Drive Shafts, no longer available from Toyota:
 [01 Parts List](images/01_parts_list.pdf)
 
 
-<a id="orgb436fd6"></a>
+<a id="orgc09aa46"></a>
 
 ### 01-02 Parts Catalog
 
@@ -2005,7 +2007,7 @@ Complete Drive Shafts, no longer available from Toyota:
 [01 Parts List](images/01_parts_list.pdf)
 
 
-<a id="orgf55ef2a"></a>
+<a id="orgdf67595"></a>
 
 ### 95-2000 Parts Catalog
 
@@ -2069,7 +2071,7 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="orgefb55d3"></a>
+<a id="orgd82fb21"></a>
 
 ## Trim/Accessories
 
@@ -2685,7 +2687,7 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="org65d26c2"></a>
+<a id="org79b19fb"></a>
 
 ## Lights
 
@@ -2725,7 +2727,7 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="org53ee041"></a>
+<a id="orga84fc5f"></a>
 
 ## Armor
 
@@ -2779,12 +2781,12 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="org5fe2c79"></a>
+<a id="orgec2b773"></a>
 
 # Interior
 
 
-<a id="orgeed8718"></a>
+<a id="org38fcd32"></a>
 
 ## Trim
 
@@ -3038,7 +3040,7 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="org4904751"></a>
+<a id="org22d4ff9"></a>
 
 ## Seats
 
@@ -3082,7 +3084,7 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="orge5ee0ac"></a>
+<a id="org1ae5e51"></a>
 
 ## Electrical
 
@@ -3126,7 +3128,7 @@ Complete Drive Shafts, no longer available from Toyota:
 </table>
 
 
-<a id="org91fcffd"></a>
+<a id="org7350c32"></a>
 
 # Parts Vendors
 
@@ -3139,7 +3141,7 @@ Complete Drive Shafts, no longer available from Toyota:
 <https://parts.lakelandtoyota.com/s/TOYOTA__TACOMA/parts.html>
 
 
-<a id="org54fc97b"></a>
+<a id="org15cb201"></a>
 
 # Parts Search
 
