@@ -198,6 +198,7 @@ https://www.wholesaleimportparts.com/Toyota_Tacoma_Driveshaft_1997.php
 
 *** 01-02 Parts Catalog
 | Page    | Contents                                                |
+|---------+---------------------------------------------------------|
 | [[file:images/01_parts_list/01_parts_list-01.png][Page 1]]  | Front Bumper, Grille, Front Lamps                       |
 | [[file:images/01_parts_list/01_parts_list-02.png][Page 2]]  | Hood, Cooling                                           |
 | [[file:images/01_parts_list/01_parts_list-03.png][Page 3]]  | Cooling, Engine Oil Cooler, AC                          |
@@ -228,8 +229,6 @@ https://www.wholesaleimportparts.com/Toyota_Tacoma_Driveshaft_1997.php
 [[file:images/01_parts_list.pdf][01 Parts List]]
 
 *** 95-2000 Parts Catalog
-
-
 
 | Part Name       | Manufacturer | PN                         | Qty | Price         | Note                       |
 |-----------------+--------------+----------------------------+-----+---------------+----------------------------|
